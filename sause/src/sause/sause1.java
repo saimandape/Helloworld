@@ -105,7 +105,7 @@ public static void main(String[] args) throws InterruptedException {
 		Select dropdown = new Select(d.findElement(By.className("product_sort_container")));  
 		dropdown.selectByVisibleText("Name (Z to A)");	// dropdown 1
 		
-		
+		//
 	}
 
 }
